@@ -35,11 +35,27 @@ Consolidated articles on programming and technical management
     - [Conceptual Compression](https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah-661c1eaed983)
   - Debugging
     - [Debugging JavaScript in Google Chrome and Visual Studio Code](https://scotch.io/tutorials/debugging-javascript-in-google-chrome-and-visual-studio-code?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=scotch_io)
+  - Docs
+    - [The C4 model for software architecture - Context, Containers, Components and Code](https://c4model.com/)
+  - Agile/Scrum/Kanban
+    - Split User Stories/Vertical Slicing
+      - [http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)
+      - [Youtube: Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI)    
+      - [Understanding the Vertical Slice](https://simpleprogrammer.com/understanding-the-vertical-slice/)
+      - [Vertically Slicing: Taking A Bite Of The Hamburger](https://apple-brook.com/vertically-slicing-taking-a-bite-of-the-hamburger/)
+      - [The Keystone Habit: Thin Vertical Slices](http://dhondtsayitsagile.blogspot.com/2012/10/the-keystone-habit-thin-vertical-slices.html)
+      - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
+      - [How to split large user stories into smaller ones](https://manifesto.co.uk/slicing-large-agile-user-stories-smaller-ones/)
+      - [How Use Case 2.0 Works](https://www.microtool.de/en/how-use-case-2-0-works/)
+      - [How to slice stories](https://www.agileconference.org/wp-content/uploads/2014/10/ABC-How-to-Slice-Stories-Matt-Roadnight.pdf) 
+      - [Db workshop - art of story splitting and writting](https://www.slideshare.net/pvandulm/db-workshop-art-of-story-splitting-and-writting)
+      - [Delivering Value in Smaller Increments: Different Ways to Thin Slice Your Minimum Viable Product](http://agilebydesign.com/delivering-value-in-smaller-increments-different-ways-to-thin-slice-your-minimum-viable-product/)
+    - [10 Kanban Board Examples](https://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
 - Inspirations
   - Perspective
     - [Beliefs](http://theoatmeal.com/comics/believe)
     - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
-    - [Youtube TechLead: Why I left my job at Google (as a software engineer)](https://youtu.be/EcojyBV4QJ4)   
+    - [Youtube TechLead: Why I left my job at Google (as a software engineer)](https://youtu.be/EcojyBV4QJ4)
   - Morale Boosters
     - [Why is it so hard to find full-stack developers?](https://www.quora.com/Why-is-it-so-hard-to-find-full-stack-developers/answer/Terry-Lambert?share=f35e73e4&srid=pRa)
     - [Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
