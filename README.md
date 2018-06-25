@@ -13,6 +13,8 @@ Consolidated articles on programming and technical management
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
 - Programming
+  - Jokes/Etc
+    - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
   - Technical Debt
     - [There are 3 main types of technical debt. Here’s how to manage them.](https://hackernoon.com/there-are-3-main-types-of-technical-debt-heres-how-to-manage-them-4a3328a4c50c)
   - Rockstars
