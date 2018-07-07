@@ -17,6 +17,8 @@ Consolidated articles on programming and technical management
     - [iOS Developer Skills Matrix](https://github.com/BohdanOrlov/ios-skills-matrix)
     - [The Progression](https://twitter.com/rakyll/status/1007729432201592832)
     - [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+    - [2018 Full Stack Developer Road Map: Part 2 – Back End Development](http://fullbit.ca/full-stack-developer-road-map-part-2-back-end-development/)
+    - [Google Developers Training](https://developers.google.com/training/)
   - Jokes/Etc
     - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
   - Technical Debt
@@ -62,6 +64,8 @@ Consolidated articles on programming and technical management
     - [How Grab built a platform to conduct experiments more effectively](https://www.techinasia.com/talk/grab-experimentation-platform)
     - [How to Do A/B Testing: A Checklist You'll Want to Bookmark](https://blog.hubspot.com/marketing/how-to-do-a-b-testing)
     - [How Obama Raised $60 Million by Running a Simple Experiment](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/)
+  - Cheat Sheets
+    - [I created a cheat sheet for dotnet cli and I hope you enjoy it, too. http://en.otomatikmuhendis.com/](https://www.reddit.com/r/dotnet/comments/8vltjo/i_created_a_cheat_sheet_for_dotnet_cli_and_i_hope/)
 - Inspirations
   - Perspective
     - [Beliefs](http://theoatmeal.com/comics/believe)
@@ -72,6 +76,8 @@ Consolidated articles on programming and technical management
     - [Why is it so hard to find full-stack developers?](https://www.quora.com/Why-is-it-so-hard-to-find-full-stack-developers/answer/Terry-Lambert?share=f35e73e4&srid=pRa)
     - [Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
     - [Youtube TechLead: How I taught myself to code again (and got a job at Google)](https://youtu.be/YUZjoow6Zdk)   
+  - Team
+    - [10 Traits to Make You an Awesome Colleague](https://medium.com/@maigh/10-traits-to-make-you-an-awesome-colleague-10ec44301fe8)
 - Tech Articles
   - Analytics
     - [This is how Cambridge Analytica’s Facebook targeting model really worked — according to the person who built it](http://www.niemanlab.org/2018/03/this-is-how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it/)
