@@ -25,6 +25,8 @@ Consolidated articles on programming and technical management
     - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
     - [The Three Types of Programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
     - [Why do large tech companies reward software engineers for leadership rather than technical skill, beyond the Senior Engineer level? Wouldn’t it be best to encourage engineers to focus on developing their technical skills instead of soft skills?](https://www.quora.com/Why-do-large-tech-companies-reward-software-engineers-for-leadership-rather-than-technical-skill-beyond-the-Senior-Engineer-level-Wouldn-t-it-be-best-to-encourage-engineers-to-focus-on-developing-their-technical)
+  - Style Guides
+    - [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
   - Architecture/Design Patterns
     - [SOLID architecture principles using simple C# examples](https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp)
     - [SOLID Principle with C# Example](https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example)
@@ -53,6 +55,10 @@ Consolidated articles on programming and technical management
       - [Db workshop - art of story splitting and writting](https://www.slideshare.net/pvandulm/db-workshop-art-of-story-splitting-and-writting)
       - [Delivering Value in Smaller Increments: Different Ways to Thin Slice Your Minimum Viable Product](http://agilebydesign.com/delivering-value-in-smaller-increments-different-ways-to-thin-slice-your-minimum-viable-product/)
     - [10 Kanban Board Examples](https://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
+  - Implementation Strategies
+    - [How Grab built a platform to conduct experiments more effectively](https://www.techinasia.com/talk/grab-experimentation-platform)
+    - [How to Do A/B Testing: A Checklist You'll Want to Bookmark](https://blog.hubspot.com/marketing/how-to-do-a-b-testing)
+    - [How Obama Raised $60 Million by Running a Simple Experiment](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/)
 - Inspirations
   - Perspective
     - [Beliefs](http://theoatmeal.com/comics/believe)
@@ -61,7 +67,7 @@ Consolidated articles on programming and technical management
   - Morale Boosters
     - [Why is it so hard to find full-stack developers?](https://www.quora.com/Why-is-it-so-hard-to-find-full-stack-developers/answer/Terry-Lambert?share=f35e73e4&srid=pRa)
     - [Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
-    - [Youtube TechLead: How I taught myself to code again (and got a job at Google)](https://youtu.be/YUZjoow6Zdk)    
+    - [Youtube TechLead: How I taught myself to code again (and got a job at Google)](https://youtu.be/YUZjoow6Zdk)   
 - Tech Articles
   - Analytics
     - [This is how Cambridge Analytica’s Facebook targeting model really worked — according to the person who built it](http://www.niemanlab.org/2018/03/this-is-how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it/)
