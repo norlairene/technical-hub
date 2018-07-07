@@ -13,13 +13,15 @@ Consolidated articles on programming and technical management
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
 - Programming
+  - Frameworks/Tracks
+    - [iOS Developer Skills Matrix](https://github.com/BohdanOrlov/ios-skills-matrix)
+    - [The Progression](https://twitter.com/rakyll/status/1007729432201592832)
+    - [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
   - Jokes/Etc
     - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
   - Technical Debt
     - [There are 3 main types of technical debt. Here’s how to manage them.](https://hackernoon.com/there-are-3-main-types-of-technical-debt-heres-how-to-manage-them-4a3328a4c50c)
-  - Rockstars
-    - [The Progression](https://twitter.com/rakyll/status/1007729432201592832)
-    - [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+  - Rockstars    
     - [Software Engineering is different from Programming](https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26)
     - [How Software Groups Rot: Legacy of the Expert Beginner](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/)
     - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
@@ -54,6 +56,7 @@ Consolidated articles on programming and technical management
       - [How to slice stories](https://www.agileconference.org/wp-content/uploads/2014/10/ABC-How-to-Slice-Stories-Matt-Roadnight.pdf) 
       - [Db workshop - art of story splitting and writting](https://www.slideshare.net/pvandulm/db-workshop-art-of-story-splitting-and-writting)
       - [Delivering Value in Smaller Increments: Different Ways to Thin Slice Your Minimum Viable Product](http://agilebydesign.com/delivering-value-in-smaller-increments-different-ways-to-thin-slice-your-minimum-viable-product/)
+      - [Youtube: Google Ventures - Sprint](https://www.youtube.com/user/GoogleVentures)
     - [10 Kanban Board Examples](https://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
   - Implementation Strategies
     - [How Grab built a platform to conduct experiments more effectively](https://www.techinasia.com/talk/grab-experimentation-platform)
@@ -64,6 +67,7 @@ Consolidated articles on programming and technical management
     - [Beliefs](http://theoatmeal.com/comics/believe)
     - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
     - [Youtube TechLead: Why I left my job at Google (as a software engineer)](https://youtu.be/EcojyBV4QJ4)
+    - [Thinking of quitting your job? Here’s why you shouldn’t](https://www.techinasia.com/thinking-quitting-job-heres)
   - Morale Boosters
     - [Why is it so hard to find full-stack developers?](https://www.quora.com/Why-is-it-so-hard-to-find-full-stack-developers/answer/Terry-Lambert?share=f35e73e4&srid=pRa)
     - [Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
