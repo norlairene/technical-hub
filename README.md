@@ -23,12 +23,14 @@ Consolidated articles on programming and technical management
     - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
   - Technical Debt
     - [There are 3 main types of technical debt. Here’s how to manage them.](https://hackernoon.com/there-are-3-main-types-of-technical-debt-heres-how-to-manage-them-4a3328a4c50c)
-  - Rockstars    
+  - Rockstars/Habits
     - [Software Engineering is different from Programming](https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26)
     - [How Software Groups Rot: Legacy of the Expert Beginner](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/)
     - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
     - [The Three Types of Programmers](https://mkdev.me/en/posts/the-three-types-of-programmers)
     - [Why do large tech companies reward software engineers for leadership rather than technical skill, beyond the Senior Engineer level? Wouldn’t it be best to encourage engineers to focus on developing their technical skills instead of soft skills?](https://www.quora.com/Why-do-large-tech-companies-reward-software-engineers-for-leadership-rather-than-technical-skill-beyond-the-Senior-Engineer-level-Wouldn-t-it-be-best-to-encourage-engineers-to-focus-on-developing-their-technical)
+    - [Professional Programmer is Professional](https://culturedperl.com/professional-programmer-is-professional-8ce3015757be)
+    - [How not to be a mediocre developer!](https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5)
   - Style Guides
     - [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
   - Architecture/Design Patterns
@@ -48,7 +50,7 @@ Consolidated articles on programming and technical management
   - Agile/Scrum/Kanban
     - Split User Stories/Vertical Slicing
       - [http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)
-      - [Youtube: Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI)    
+      - Video: Youtube Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI)    
       - [Understanding the Vertical Slice](https://simpleprogrammer.com/understanding-the-vertical-slice/)
       - [Vertically Slicing: Taking A Bite Of The Hamburger](https://apple-brook.com/vertically-slicing-taking-a-bite-of-the-hamburger/)
       - [The Keystone Habit: Thin Vertical Slices](http://dhondtsayitsagile.blogspot.com/2012/10/the-keystone-habit-thin-vertical-slices.html)
@@ -58,7 +60,7 @@ Consolidated articles on programming and technical management
       - [How to slice stories](https://www.agileconference.org/wp-content/uploads/2014/10/ABC-How-to-Slice-Stories-Matt-Roadnight.pdf) 
       - [Db workshop - art of story splitting and writting](https://www.slideshare.net/pvandulm/db-workshop-art-of-story-splitting-and-writting)
       - [Delivering Value in Smaller Increments: Different Ways to Thin Slice Your Minimum Viable Product](http://agilebydesign.com/delivering-value-in-smaller-increments-different-ways-to-thin-slice-your-minimum-viable-product/)
-      - [Youtube: Google Ventures - Sprint](https://www.youtube.com/user/GoogleVentures)
+      - [Video: Youtube Google Ventures - Sprint](https://www.youtube.com/user/GoogleVentures)
     - [10 Kanban Board Examples](https://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
   - Implementation Strategies
     - [How Grab built a platform to conduct experiments more effectively](https://www.techinasia.com/talk/grab-experimentation-platform)
@@ -72,12 +74,19 @@ Consolidated articles on programming and technical management
     - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
     - [Youtube TechLead: Why I left my job at Google (as a software engineer)](https://youtu.be/EcojyBV4QJ4)
     - [Thinking of quitting your job? Here’s why you shouldn’t](https://www.techinasia.com/thinking-quitting-job-heres)
+    - [Lessons learned from my journey as a self-taught developer](https://medium.freecodecamp.org/lessons-learned-from-my-journey-as-a-self-taught-developer-41b97067730)
   - Morale Boosters
     - [Why is it so hard to find full-stack developers?](https://www.quora.com/Why-is-it-so-hard-to-find-full-stack-developers/answer/Terry-Lambert?share=f35e73e4&srid=pRa)
-    - [Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
-    - [Youtube TechLead: How I taught myself to code again (and got a job at Google)](https://youtu.be/YUZjoow6Zdk)   
+    - [Video: Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
+    - [Video: Youtube TechLead: How I taught myself to code again (and got a job at Google)](https://youtu.be/YUZjoow6Zdk)
   - Team
     - [10 Traits to Make You an Awesome Colleague](https://medium.com/@maigh/10-traits-to-make-you-an-awesome-colleague-10ec44301fe8)
+  - Levels
+    - [Levels.fyi - Compare career levels across companies](https://www.levels.fyi)
+  - Quotes
+    - [Technical quotes](https://github.com/norlairene/technical-quotes)
+  - Startups
+    - [Startups](https://github.com/norlairene/startups)
 - Tech Articles
   - Analytics
     - [This is how Cambridge Analytica’s Facebook targeting model really worked — according to the person who built it](http://www.niemanlab.org/2018/03/this-is-how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it/)
