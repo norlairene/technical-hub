@@ -47,6 +47,7 @@ Consolidated articles on programming and technical management
     - [Debugging JavaScript in Google Chrome and Visual Studio Code](https://scotch.io/tutorials/debugging-javascript-in-google-chrome-and-visual-studio-code?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=scotch_io)
   - Docs
     - [The C4 model for software architecture - Context, Containers, Components and Code](https://c4model.com/)
+    - [How to write a good software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
   - Agile/Scrum/Kanban
     - Split User Stories/Vertical Slicing
       - [http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)
