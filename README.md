@@ -50,17 +50,9 @@ Consolidated articles on programming and technical management
   - Agile/Scrum/Kanban
     - Split User Stories/Vertical Slicing
       - [http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)
-      - Video: Youtube Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI)    
-      - [Understanding the Vertical Slice](https://simpleprogrammer.com/understanding-the-vertical-slice/)
       - [Vertically Slicing: Taking A Bite Of The Hamburger](https://apple-brook.com/vertically-slicing-taking-a-bite-of-the-hamburger/)
-      - [The Keystone Habit: Thin Vertical Slices](http://dhondtsayitsagile.blogspot.com/2012/10/the-keystone-habit-thin-vertical-slices.html)
-      - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
-      - [How to split large user stories into smaller ones](https://manifesto.co.uk/slicing-large-agile-user-stories-smaller-ones/)
-      - [How Use Case 2.0 Works](https://www.microtool.de/en/how-use-case-2-0-works/)
-      - [How to slice stories](https://www.agileconference.org/wp-content/uploads/2014/10/ABC-How-to-Slice-Stories-Matt-Roadnight.pdf) 
-      - [Db workshop - art of story splitting and writting](https://www.slideshare.net/pvandulm/db-workshop-art-of-story-splitting-and-writting)
-      - [Delivering Value in Smaller Increments: Different Ways to Thin Slice Your Minimum Viable Product](http://agilebydesign.com/delivering-value-in-smaller-increments-different-ways-to-thin-slice-your-minimum-viable-product/)
-      - [Video: Youtube Google Ventures - Sprint](https://www.youtube.com/user/GoogleVentures)
+      - [Video: Youtube Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI)
+    - [Video: Youtube Google Ventures - Sprint](https://www.youtube.com/user/GoogleVentures)
     - [10 Kanban Board Examples](https://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
   - Implementation Strategies
     - [How Grab built a platform to conduct experiments more effectively](https://www.techinasia.com/talk/grab-experimentation-platform)
