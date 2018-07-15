@@ -13,6 +13,11 @@ Consolidated articles on programming and technical management
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
 - Programming
+  - Fundamentals
+    - Object Oriented Programming
+      - [How to explain object-oriented programming concepts to a 6-year-old](https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260)
+    - Javascript
+      - [Learn these JavaScript fundamentals and become a better developer](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
   - Frameworks/Tracks
     - [iOS Developer Skills Matrix](https://github.com/BohdanOrlov/ios-skills-matrix)
     - [The Progression](https://twitter.com/rakyll/status/1007729432201592832)
