@@ -36,8 +36,14 @@ Consolidated articles on programming and technical management
     - [Why do large tech companies reward software engineers for leadership rather than technical skill, beyond the Senior Engineer level? Wouldn’t it be best to encourage engineers to focus on developing their technical skills instead of soft skills?](https://www.quora.com/Why-do-large-tech-companies-reward-software-engineers-for-leadership-rather-than-technical-skill-beyond-the-Senior-Engineer-level-Wouldn-t-it-be-best-to-encourage-engineers-to-focus-on-developing-their-technical)
     - [Professional Programmer is Professional](https://culturedperl.com/professional-programmer-is-professional-8ce3015757be)
     - [How not to be a mediocre developer!](https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5)
-  - Style Guides
+  - Style Guides/Coding Conventions/Guidelines
+    - [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
+    - [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide)
+    - [C# Coding Conventions (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
     - [Style guides for Google-originated open-source projects](https://github.com/google/styleguide)
+    - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+    - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/README.md)
+    - [Secure coding guidelines](https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
   - Architecture/Design Patterns
     - [SOLID architecture principles using simple C# examples](https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp)
     - [SOLID Principle with C# Example](https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example)
