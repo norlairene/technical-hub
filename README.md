@@ -12,12 +12,19 @@ Consolidated articles on programming and technical management
     - [Becoming an accidental architect](https://www.oreilly.com/ideas/becoming-an-accidental-architect)
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
-- Programming
+- Programming  
   - Fundamentals
+    - Basics
+      - [Learn your coding fundamentals: the main differences between sets and arrays](https://medium.freecodecamp.org/learn-your-coding-fundamentals-the-main-differences-between-sets-and-arrays-4a9ed29bfb2f)
     - Object Oriented Programming
       - [How to explain object-oriented programming concepts to a 6-year-old](https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260)
     - Javascript
       - [Learn these JavaScript fundamentals and become a better developer](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
+    - Design
+      - [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
+      - [I wanted to see how far I could push myself creatively. So I redesigned Instagram.](https://medium.freecodecamp.org/i-wanted-to-see-how-far-i-could-push-myself-creatively-so-i-redesigned-instagram-1ff99f28fa8b)
+    - Performance
+      - [ASP.NET Performance Monitoring: A Developer’s How to Guide](https://stackify.com/asp-net-performance-monitoring-developers-guide/)
   - Frameworks/Tracks
     - [iOS Developer Skills Matrix](https://github.com/BohdanOrlov/ios-skills-matrix)
     - [The Progression](https://twitter.com/rakyll/status/1007729432201592832)
@@ -73,12 +80,15 @@ Consolidated articles on programming and technical management
   - Cheat Sheets
     - [I created a cheat sheet for dotnet cli and I hope you enjoy it, too. http://en.otomatikmuhendis.com/](https://www.reddit.com/r/dotnet/comments/8vltjo/i_created_a_cheat_sheet_for_dotnet_cli_and_i_hope/)
 - Inspirations
+  - Portfolios
+    - [15 Web Developer Portfolios to Inspire You](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
   - Perspective
     - [Beliefs](http://theoatmeal.com/comics/believe)
     - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/)
     - [Youtube TechLead: Why I left my job at Google (as a software engineer)](https://youtu.be/EcojyBV4QJ4)
     - [Thinking of quitting your job? Here’s why you shouldn’t](https://www.techinasia.com/thinking-quitting-job-heres)
     - [Lessons learned from my journey as a self-taught developer](https://medium.freecodecamp.org/lessons-learned-from-my-journey-as-a-self-taught-developer-41b97067730)
+    - [What learning to code actually taught me](https://medium.freecodecamp.org/what-learning-to-code-actually-taught-me-a11fd850af0a)
   - Morale Boosters
     - [Why is it so hard to find full-stack developers?](https://www.quora.com/Why-is-it-so-hard-to-find-full-stack-developers/answer/Terry-Lambert?share=f35e73e4&srid=pRa)
     - [Video: Youtube TechLead: Passive Income: How I make $40,000/year doing nothing (software engineer edition)](https://youtu.be/u4oMEljRzBY)
@@ -94,4 +104,5 @@ Consolidated articles on programming and technical management
 - Tech Articles
   - Analytics
     - [This is how Cambridge Analytica’s Facebook targeting model really worked — according to the person who built it](http://www.niemanlab.org/2018/03/this-is-how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it/)
-    
+    - [So you’ve signed up for another online course — how do you make the most of it?](https://medium.freecodecamp.org/so-youve-signed-up-for-another-online-course-how-do-you-make-the-most-of-it-a8d8f28823cb)
+    - [How Slow App Performance Can Impact Your Bottom Line](https://stackify.com/slow-app-performance-bottom-line/?utm_medium=pushnotifications&utm_source=onesignal&utm_campaign=onesignal)
