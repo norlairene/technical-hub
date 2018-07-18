@@ -22,7 +22,7 @@ Consolidated articles on programming and technical management
       - [Learn these JavaScript fundamentals and become a better developer](https://medium.freecodecamp.org/learn-these-javascript-fundamentals-and-become-a-better-developer-2a031a0dc9cf)
     - Design
       - [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
-      - [I wanted to see how far I could push myself creatively. So I redesigned Instagram.](https://medium.freecodecamp.org/i-wanted-to-see-how-far-i-could-push-myself-creatively-so-i-redesigned-instagram-1ff99f28fa8b)
+      - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
     - Performance
       - [ASP.NET Performance Monitoring: A Developer’s How to Guide](https://stackify.com/asp-net-performance-monitoring-developers-guide/)
   - Frameworks/Tracks
@@ -59,6 +59,7 @@ Consolidated articles on programming and technical management
   - UI/UX
     - [Understand the 12 principles of animation](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
     - [16 top CSS animation examples](https://www.creativebloq.com//inspiration/css-animation-examples?utm_source=Adestra&utm_medium=email&utm_campaign=23249&utm_term=637339&utm_content=399253)
+    - [I wanted to see how far I could push myself creatively. So I redesigned Instagram.](https://medium.freecodecamp.org/i-wanted-to-see-how-far-i-could-push-myself-creatively-so-i-redesigned-instagram-1ff99f28fa8b)
   - Object Relational Mappers (ORM)
     - [Conceptual Compression](https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah-661c1eaed983)
   - Debugging
