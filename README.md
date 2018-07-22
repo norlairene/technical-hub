@@ -11,6 +11,7 @@ Consolidated articles on programming and technical management
     - [What Does It Mean to Be an Effective Tech Lead?](https://blog.coleadership.com/what-does-it-mean-to-be-an-effective-tech-lead/?utm_source=effectiveengineer&utm_medium=blog&utm_campaign=what-does-it-mean-to-be-an-effective-tech-lead)    
     - [Becoming an accidental architect](https://www.oreilly.com/ideas/becoming-an-accidental-architect)
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
+    - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
 - Programming  
   - Fundamentals
