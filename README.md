@@ -13,6 +13,7 @@ Consolidated articles on programming and technical management
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
+    - [How do CEOs justify their high salaries when some employees struggle to put food on the table?](https://www.quora.com/How-do-CEOs-justify-their-high-salaries-when-some-employees-struggle-to-put-food-on-the-table)
 - Programming  
   - Fundamentals
     - Basics
@@ -44,6 +45,7 @@ Consolidated articles on programming and technical management
     - [Why do large tech companies reward software engineers for leadership rather than technical skill, beyond the Senior Engineer level? Wouldn’t it be best to encourage engineers to focus on developing their technical skills instead of soft skills?](https://www.quora.com/Why-do-large-tech-companies-reward-software-engineers-for-leadership-rather-than-technical-skill-beyond-the-Senior-Engineer-level-Wouldn-t-it-be-best-to-encourage-engineers-to-focus-on-developing-their-technical)
     - [Professional Programmer is Professional](https://culturedperl.com/professional-programmer-is-professional-8ce3015757be)
     - [How not to be a mediocre developer!](https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5)
+    - [Commodity Programmers](http://wiki.c2.com/?CommodityProgrammers)
   - Style Guides/Coding Conventions/Guidelines
     - [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
     - [The Official raywenderlich.com C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide)
