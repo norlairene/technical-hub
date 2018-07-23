@@ -12,6 +12,7 @@ Consolidated articles on programming and technical management
     - [Becoming an accidental architect](https://www.oreilly.com/ideas/becoming-an-accidental-architect)
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+  - Articles
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
     - [How do CEOs justify their high salaries when some employees struggle to put food on the table?](https://www.quora.com/How-do-CEOs-justify-their-high-salaries-when-some-employees-struggle-to-put-food-on-the-table)
 - Programming  
