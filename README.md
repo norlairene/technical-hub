@@ -11,6 +11,8 @@ Consolidated articles on programming and technical management
     - [What Does It Mean to Be an Effective Tech Lead?](https://blog.coleadership.com/what-does-it-mean-to-be-an-effective-tech-lead/?utm_source=effectiveengineer&utm_medium=blog&utm_campaign=what-does-it-mean-to-be-an-effective-tech-lead)    
     - [Becoming an accidental architect](https://www.oreilly.com/ideas/becoming-an-accidental-architect)
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
+    - [Making The Transition from Software Engineer To Manager](https://medium.com/@CodeFellows/making-the-transition-from-software-engineer-to-manager-3a12b11efe79)
+    - [What I learned transitioning from being a programmer to an IT manager](https://m.dotdev.co/what-i-learned-transitioning-from-being-a-programmer-to-an-it-manager-8e58e7b406)
     - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
   - Articles
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
