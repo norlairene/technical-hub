@@ -13,6 +13,7 @@ Consolidated articles on programming and technical management
     - [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes)
     - [Making The Transition from Software Engineer To Manager](https://medium.com/@CodeFellows/making-the-transition-from-software-engineer-to-manager-3a12b11efe79)
     - [What I learned transitioning from being a programmer to an IT manager](https://m.dotdev.co/what-i-learned-transitioning-from-being-a-programmer-to-an-it-manager-8e58e7b406)
+    - [Engineering Management: The Pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
     - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
   - Articles
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
@@ -28,6 +29,7 @@ Consolidated articles on programming and technical management
     - Design
       - [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda)
       - [How to get better at writing CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
+      - [How Tencent designed their remittance product for Filipino domestic helpers in Hong Kong](https://medium.com/@somarianne/how-tencent-designed-their-remittance-product-for-filipino-domestic-helpers-in-hong-kong-985b09b2d11e)
     - Performance
       - [ASP.NET Performance Monitoring: A Developer’s How to Guide](https://stackify.com/asp-net-performance-monitoring-developers-guide/)
   - Frameworks/Tracks
