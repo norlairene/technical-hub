@@ -82,6 +82,7 @@ Consolidated articles on programming and technical management
       - [Video: Youtube Splitting User Stories - Agile Practices](https://youtu.be/EDT0HMtDwYI)
     - [Video: Youtube Google Ventures - Sprint](https://www.youtube.com/user/GoogleVentures)
     - [10 Kanban Board Examples](https://leankit.com/learn/kanban/kanban-board-examples-for-development-and-operations/)
+    - [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-structure-our-work-and-teams-at-basecamp/)
   - Implementation Strategies
     - [How Grab built a platform to conduct experiments more effectively](https://www.techinasia.com/talk/grab-experimentation-platform)
     - [How to Do A/B Testing: A Checklist You'll Want to Bookmark](https://blog.hubspot.com/marketing/how-to-do-a-b-testing)
