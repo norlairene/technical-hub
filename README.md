@@ -38,6 +38,14 @@ Consolidated articles on programming and technical management
     - [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
     - [2018 Full Stack Developer Road Map: Part 2 – Back End Development](http://fullbit.ca/full-stack-developer-road-map-part-2-back-end-development/)
     - [Google Developers Training](https://developers.google.com/training/)
+  - Public Design Systems
+    - [Google Design](https://design.google)
+    - [Apple](https://developer.apple.com/design/)
+    - [Microsoft](https://www.microsoft.com/design)
+    - [Atlassian](https://atlassian.design)
+    - [IBM Design](https://www.ibm.com/design)
+    - [Helpscout](https://style.helpscout.com)
+    - [Shopify](https://polaris.shopify.com)
   - Jokes/Etc
     - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
   - Technical Debt
