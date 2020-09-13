@@ -16,6 +16,7 @@ Consolidated articles on programming and technical management
     - [Engineering Management: The Pendulum or the ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
     - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
     - [Youtube LEADx: The Making of a Manager | Facebook VP Julie Zhuo](https://www.youtube.com/watch?v=te6sGLblLGQ&t=728s)
+    - [Youtube InVision: Julie Zhuo: Learning to manage like a leader](https://www.youtube.com/watch?v=iPkKs0GbLas&t=938s)
   - Articles
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
     - [How do CEOs justify their high salaries when some employees struggle to put food on the table?](https://www.quora.com/How-do-CEOs-justify-their-high-salaries-when-some-employees-struggle-to-put-food-on-the-table)
