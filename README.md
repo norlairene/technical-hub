@@ -17,6 +17,7 @@ Consolidated articles on programming and technical management
     - [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
     - [Youtube LEADx: The Making of a Manager | Facebook VP Julie Zhuo](https://www.youtube.com/watch?v=te6sGLblLGQ&t=728s)
     - [Youtube InVision: Julie Zhuo: Learning to manage like a leader](https://www.youtube.com/watch?v=iPkKs0GbLas&t=938s)
+    - [As Your Team Gets Bigger, Your Leadership Style Has to Adapt](https://hbr.org/2019/03/as-your-team-gets-bigger-your-leadership-style-has-to-adapt)
   - Articles
     - [How Netflix Reinvented HR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
     - [How do CEOs justify their high salaries when some employees struggle to put food on the table?](https://www.quora.com/How-do-CEOs-justify-their-high-salaries-when-some-employees-struggle-to-put-food-on-the-table)
